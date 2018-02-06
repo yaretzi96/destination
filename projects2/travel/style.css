@@ -1,0 +1,25 @@
+
+body{ background:lightskyblue ;
+  font-size: 200%;}
+
+
+header h1,h2,h3 {
+color:rgb(5, 5, 53) ;
+}
+
+
+
+article h2 {color: blueviolet;
+}
+
+.must-see {
+  color:darkblue;
+}
+aside{
+color: darkblue
+
+}
+footer h2{
+   color: darkblue}
+
+}

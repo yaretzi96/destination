@@ -1,0 +1,18 @@
+
+body{ background:teal;
+  font-size: 200%;}
+
+
+header h2 {
+color: yellow;
+}
+
+
+
+article h2 {
+  color: blue;
+}
+
+.must-see {
+  color: green;
+}
