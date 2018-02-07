@@ -1,6 +1,7 @@
 
-body{ background:lightskyblue ;
-  font-size: 200%;}
+body{ background: lightskyblue ;
+  font-size: 100%;
+}
 body{font-family: 'Libre Baskerville', serif;}
 
 header h1,h2,h3 {
@@ -16,7 +17,7 @@ article h2 {color: blueviolet;
 }
 
 .must-see {
-  color:darkblue;
+  color:darkblue;                  
 }
 
 aside{
