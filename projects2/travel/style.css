@@ -46,6 +46,7 @@ a{
   display:inline-block;
   border: 1px solid black;
 }
+
 a:hover{
   color:#C9E440;
 }
@@ -78,6 +79,7 @@ h2{
 
 .learn{
   background: #99D378;
+   padding-left:  1em;
 }
 
 footer p{ 
